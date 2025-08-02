@@ -64,17 +64,20 @@ In order to achieve the stated goal, SuperMax Foods should focus on two marketin
 
 ## How to Run
 
-1. Install dependencies:
-pip install -r requirements.txt
+## How to Run
 
-2. Clone the repository:
-git clone https://github.com/<your-username>/data-course-finalproj.git
+a. Install dependencies: 
+   `pip install -r requirements.txt`
 
-3. Navigate into the project:
-cd data-course-finalproj
+b. Clone the repository: 
+   [`git clone https://github.com/jendu-builds/data-course-finalproj.git`](https://github.com/jendu-builds/data-course-finalproj.git)
 
-4. Open the final notebook:
-jupyter notebook notebooks/supermax_final.ipynb
+c. Navigate into the project: 
+   `cd data-course-finalproj`
+
+d. Open the final notebook: 
+   `jupyter notebook notebooks/supermax_final.ipynb`
+
 
 
 ---
