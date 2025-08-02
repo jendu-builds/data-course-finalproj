@@ -19,7 +19,7 @@ My analysis focuses on addressing the business strategy to lift sales revenue by
 <li>Which products offer the greatest potential for sales growth?
 <li>Which customer demographic should we target in our marketing efforts?
 <li>How many additional monthly sales are required for each demographic or product to achieve our goal?
-<ol>
+</ol>
 
 ---
 
@@ -63,21 +63,19 @@ In order to achieve the stated goal, SuperMax Foods should focus on two marketin
 ---
 
 ## How to Run
-
-## How to Run
-
-a. Install dependencies: 
+<ol>
+<li>Install dependencies: 
    `pip install -r requirements.txt`
 
-b. Clone the repository: 
+<li>Clone the repository: 
    [`git clone https://github.com/jendu-builds/data-course-finalproj.git`](https://github.com/jendu-builds/data-course-finalproj.git)
 
-c. Navigate into the project: 
+<li>Navigate into the project: 
    `cd data-course-finalproj`
 
-d. Open the final notebook: 
+<li>Open the final notebook: 
    `jupyter notebook notebooks/supermax_final.ipynb`
-
+</ol>
 
 
 ---
